@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>561520AD-A5D1-43D5-9670-187D646E2C95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E571D1C3B7BF132387449EEA92FC824353865EC9</key>
+		<string>https://github.com/SergioChan/PixelSurvival.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PixelSurvival/PixelSurvival.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E571D1C3B7BF132387449EEA92FC824353865EC9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SergioChan/PixelSurvival.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E571D1C3B7BF132387449EEA92FC824353865EC9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E571D1C3B7BF132387449EEA92FC824353865EC9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PixelSurvival</string>
+		</dict>
+	</array>
+</dict>
+</plist>
